@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>New Project</title>
+	<defs>
+		<image  width="1920" height="1080" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4AQMAAADSHVMAAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAARNJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCnAfjlAAGZJYkPAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g1" x1="1053.6" y1="1080" x2="2133.6" y2="0" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#35af00"/>
+			<stop offset="1" stop-color="#35af00" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="0" y1="540" x2="1920" y2="540" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00950b"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: url(#g2) } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" class="s0" d="m0 0h1920v1080h-1920z"/>
+</svg>

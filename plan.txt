@@ -1,0 +1,11 @@
+top menu: home, projects, skills, experience, about me
+
+
+Copyright:
+github image:    Icon by <a href="https://freeicons.io/profile/3">icon king1</a> on <a href="https://freeicons.io">freeicons.io</a>
+                                
+Projects:
+- Personal Website
+- Grandma's Website
+- Final Project
+- Social Media
