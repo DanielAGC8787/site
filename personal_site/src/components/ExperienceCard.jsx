@@ -35,9 +35,9 @@ const ExperienceCard = (props) => {
                     <img className='experience_img' src={props.experience.Pic} alt={props.experience.Title}/>
                     <br/>
                     <PositionInfo title={props.experience.Position3} info={info3}/>
-                    <img className='up' src='/images/up.svg' alt='up'/>
+                    <img className='up' src='site/images/up.svg' alt='up'/>
                     <PositionInfo title={props.experience.Position2} info={info2}/>
-                    <img className='up' src='/images/up.svg' alt='up'/>
+                    <img className='up' src='site/images/up.svg' alt='up'/>
                     <PositionInfo title={props.experience.Position1} info={info1}/>
                     <br/>
                 </div>
